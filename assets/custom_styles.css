@@ -1,0 +1,7 @@
+.table-container .sticky-header-table thead th {
+    position: sticky;
+    top: 0;
+    background: white;
+    z-index: 2;
+}
+
